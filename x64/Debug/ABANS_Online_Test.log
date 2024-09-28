@@ -1,3 +1,0 @@
-﻿  ABXClient.cpp
-C:\Users\kavne\source\repos\ABANS_Online_Test\ABXClient.cpp(89,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  ABANS_Online_Test.vcxproj -> C:\Users\kavne\source\repos\ABANS_Online_Test\x64\Debug\ABANS_Online_Test.exe
